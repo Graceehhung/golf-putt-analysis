@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Golf Putting Video Analysis with MediaPipe
 
 This project analyzes golf putting videos using [MediaPipe](https://mediapipe.dev/). It is designed for **offline, non-real-time** analysis: you provide a video, and the pipeline extracts body/club landmarks, computes golf-specific metrics, and visualizes results to help improve your putting technique.
@@ -75,8 +74,7 @@ golf-putt-analysis
 
 ## License
 
-This project is for educational and research purposes. See [LICENSE](LICENSE)
+This project is for educational and research purposes.
 =======
 # golf-putt-analysis
 Golf putt analysis project with MediaPipe skeleton overlay and body motion metrics.
->>>>>>> a9c356e5d535227d35f0a8ec945f88adc1fb7b0e
