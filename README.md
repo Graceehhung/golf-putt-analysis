@@ -74,7 +74,7 @@ golf-putt-analysis
 
 ## License
 
-This project is for educational and research purposes.
+see LICENSE
 =======
 # golf-putt-analysis
 Golf putt analysis project with MediaPipe skeleton overlay and body motion metrics.
